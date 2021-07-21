@@ -1,3 +1,5 @@
+[![Create Release](https://github.com/ozarkcraft/ozarkpack/actions/workflows/main.yml/badge.svg)](https://github.com/ozarkcraft/ozarkpack/actions/workflows/main.yml)
+
 # ozarkpack
 OzarkCraft specific datapack
 

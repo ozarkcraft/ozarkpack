@@ -1,4 +1,4 @@
-[![Create Release](https://github.com/ozarkcraft/ozarkpack/actions/workflows/main.yml/badge.svg)](https://github.com/ozarkcraft/ozarkpack/actions/workflows/main.yml)
+[![Create Release](https://img.shields.io/github/workflow/status/ozarkcraft/ozarkpack/Create%20Release?style=for-the-badge)](https://github.com/ozarkcraft/ozarkpack/actions/workflows/main.yml)
 
 [![Download Ozarkpack](https://img.shields.io/badge/download-ozarkpack.zip-blue?style=for-the-badge)](https://github.com/ozarkcraft/ozarkpack/releases/download/v0.1.0/ozarkpack-v0.1.0.zip)
 

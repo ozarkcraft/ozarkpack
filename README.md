@@ -15,9 +15,20 @@ The Ozark Prize loot table has the following characteristics:
 
 Give yourself the loot with:
 ```
-/loot give @a loot ozarkpack:chests/ozark_prize
+/loot give @a loot ozark:chests/ozark_prize
 ```
 or create a chest with:
 ```
-/give @p minecraft:chest{BlockEntityTag:{LootTable:"ozarkpack:chests/ozark_prize"}} 1
+/give @p minecraft:chest{BlockEntityTag:{LootTable:"ozark:chests/ozark_prize"}} 1
+```
+
+## Functions
+Make yourself super strong
+```
+/function ozark:strength
+```
+
+Setup a flatworld with day, clear weather, etc
+```
+/function ozark:start
 ```

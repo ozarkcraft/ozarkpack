@@ -20,12 +20,12 @@
               "function": "set_count",
               "count": {
                 "min": 1,
-                "max": 2
+                "max": 3
               },
               "conditions": [
                 {
                   "condition": "random_chance",
-                  "chance": 0.799
+                  "chance": 0.80
                 }
               ]
             }
@@ -42,7 +42,7 @@
               "conditions": [
                 {
                   "condition": "random_chance",
-                  "chance": 0.5
+                  "chance": 0.3
                 }
               ]
             }

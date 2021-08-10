@@ -1,5 +1,5 @@
 [![Create Release](https://img.shields.io/github/workflow/status/ozarkcraft/ozarkpack/Create%20Release?style=for-the-badge)](https://github.com/ozarkcraft/ozarkpack/actions/workflows/main.yml)
-[![Download Ozarkpack](https://img.shields.io/badge/download-ozarkpack.zip-blue?style=for-the-badge)](https://github.com/ozarkcraft/ozarkpack/releases/download/v0.1.1/ozarkpack-v0.1.1.zip)
+[![Download Ozarkpack](https://img.shields.io/badge/download-ozarkpack.zip-blue?style=for-the-badge)](https://github.com/ozarkcraft/ozarkpack/releases/download/v0.1.2/ozarkpack-v0.1.2.zip)
 
 # ozarkpack
 OzarkCraft specific datapack
